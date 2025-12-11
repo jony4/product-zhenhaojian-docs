@@ -2,14 +2,24 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "帧好剪",
   "logo": {
-    "dark": "/logo.webp",
-    "light": "/logo.webp"
+    "dark": "/logo.png",
+    "light": "/logo.png"
   },
-  "favicon": "/favicon.webp",
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#0D9488",
     "light": "#14B8A6",
     "dark": "#0F766E"
+  },
+  "topbarLinks": [
+    {
+      "name": "官网",
+      "url": "https://www.cutcut.video"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "开始使用",
+    "url": "https://video.cutcut.video"
   },
   "navigation": [
     {
