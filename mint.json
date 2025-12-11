@@ -1,0 +1,46 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "帧好剪",
+  "logo": {
+    "dark": "/logo.png",
+    "light": "/logo.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#0D9488",
+    "light": "#14B8A6",
+    "dark": "#0F766E"
+  },
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "introduction",
+        "pricing"
+      ]
+    },
+    {
+      "group": "Solutions",
+      "pages": [
+        "solutions/short-drama",
+        "solutions/live-highlights"
+      ]
+    },
+    {
+      "group": "Tools",
+      "pages": [
+        "tools/compliance",
+        "tools/multi-pic-commentary",
+        "tools/video-summary",
+        "tools/subtitle-extraction",
+        "tools/subtitle-translation",
+        "tools/video-translation",
+        "tools/audio-separation",
+        "tools/smart-cutout"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/jony4/product-website-zhenhaojian"
+  }
+}
