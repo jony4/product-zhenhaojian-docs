@@ -1,0 +1,28 @@
+# 帧好剪 (cutcut.video) Documentation Map
+
+> 帧好剪 is an AI-powered media processing platform offering tools for video editing, compliance, and translation.
+
+## Core Documentation
+- [Introduction](introduction.mdx) - Platform overview and capabilities.
+- [User Guide](guide/quick-start.mdx) - Quick start guide for new users.
+- [API Reference](api/introduction.mdx) - API integration details.
+
+## Tools
+- [Compliance](tools/compliance.mdx) - Content safety and risk detection.
+- [Multi-Pic Commentary](tools/multi-pic-commentary.mdx) - Generate videos from images with AI commentary.
+- [Video Summary](tools/video-summary.mdx) - Extract summaries and mind maps from videos.
+- [Video Translation](tools/video-translation.mdx) - Translate video and subtitles.
+- [Subtitle Extraction](tools/subtitle-extraction.mdx) - Extract subtitles from videos.
+- [Subtitle Translation](tools/subtitle-translation.mdx) - Translate subtitles.
+- [Audio Separation](tools/audio-separation.mdx) - Separate audio tracks.
+- [Smart Cutout](tools/smart-cutout.mdx) - Intelligent video cutout.
+
+## Solutions
+- [Short Drama](solutions/short-drama.mdx) - AI solutions for short drama production and export.
+- [Live Highlights](solutions/live-highlights.mdx) - Automatically generate highlight clips from live streams.
+
+## Other
+- [FAQ](faq/general.mdx) - Frequently asked questions.
+- [Changelog](changelog/index.mdx) - Update history.
+- [Terms](legal/terms.mdx) - Terms of service.
+- [Privacy](legal/privacy.mdx) - Privacy policy.

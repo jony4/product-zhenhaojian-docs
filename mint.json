@@ -6,6 +6,12 @@
     "light": "/logo.png"
   },
   "favicon": "/favicon.png",
+  "metadata": {
+    "title": "帧好剪 (cutcut.video) - 智能媒体处理平台文档",
+    "description": "帧好剪官方文档，提供视频剪辑、内容风控、字幕翻译等 AI 工具的详细指南与 API 接入参考。",
+    "og:image": "/logo.png",
+    "twitter:card": "summary_large_image"
+  },
   "colors": {
     "primary": "#0D9488",
     "light": "#14B8A6",
@@ -21,24 +27,47 @@
     "name": "开始使用",
     "url": "https://video.cutcut.video"
   },
+  "tabs": [
+    {
+      "name": "介绍",
+      "url": "introduction"
+    },
+    {
+      "name": "用户指南",
+      "url": "guide/quick-start"
+    },
+    {
+      "name": "场景示例",
+      "url": "solutions/short-drama"
+    },
+    {
+      "name": "API 手册",
+      "url": "api/introduction"
+    },
+    {
+      "name": "常见问题",
+      "url": "faq/general"
+    },
+    {
+      "name": "更新公告",
+      "url": "changelog/index"
+    },
+    {
+      "name": "条款与协议",
+      "url": "legal/terms"
+    }
+  ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "介绍",
       "pages": [
-        "introduction",
-        "pricing"
+        "introduction"
       ]
     },
     {
-      "group": "Solutions",
+      "group": "用户指南",
       "pages": [
-        "solutions/short-drama",
-        "solutions/live-highlights"
-      ]
-    },
-    {
-      "group": "Tools",
-      "pages": [
+        "guide/quick-start",
         "tools/compliance",
         "tools/multi-pic-commentary",
         "tools/video-summary",
@@ -47,6 +76,38 @@
         "tools/video-translation",
         "tools/audio-separation",
         "tools/smart-cutout"
+      ]
+    },
+    {
+      "group": "场景示例",
+      "pages": [
+        "solutions/short-drama",
+        "solutions/live-highlights"
+      ]
+    },
+    {
+      "group": "API 手册",
+      "pages": [
+        "api/introduction"
+      ]
+    },
+    {
+      "group": "常见问题",
+      "pages": [
+        "faq/general"
+      ]
+    },
+    {
+      "group": "更新公告",
+      "pages": [
+        "changelog/index"
+      ]
+    },
+    {
+      "group": "条款与协议",
+      "pages": [
+        "legal/terms",
+        "legal/privacy"
       ]
     }
   ]
