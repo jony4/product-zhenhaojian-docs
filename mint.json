@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "帧好剪",
   "logo": {
-    "dark": "/logo.png",
-    "light": "/logo.png"
+    "dark": "/logo.webp",
+    "light": "/logo.webp"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/favicon.webp",
   "colors": {
     "primary": "#0D9488",
     "light": "#14B8A6",
@@ -39,8 +39,5 @@
         "tools/smart-cutout"
       ]
     }
-  ],
-  "footerSocials": {
-    "github": "https://github.com/jony4/product-website-zhenhaojian"
-  }
+  ]
 }
