@@ -2,6 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "帧好剪",
+  "description": "多模态为基座、具备编剧导演思维的视频创作伙伴。",
   "colors": {
     "primary": "#0D9488",
     "light": "#14B8A6",
@@ -96,8 +97,8 @@
   },
   "seo": {
     "metatags": {
-      "title": "帧好剪 (cutcut.video) - 智能媒体处理平台文档",
-      "description": "帧好剪官方文档，提供视频剪辑、内容风控、字幕翻译等 AI 工具的详细指南与 API 接入参考。",
+      "title": "帧好剪 - 多模态为基座、具备编剧导演思维的视频创作伙伴。",
+      "description": "帧好剪官方文档，提供视频剪辑、内容风控、视频翻译等 AI 工具的详细指南与 API 接入参考。",
       "og:image": "/logo.png",
       "twitter:card": "summary_large_image"
     },
