@@ -32,7 +32,7 @@
           },
           {
             "group": "AI 工具",
-            "icon": "thumbs-up",
+            "icon": "screwdriver-wrench",
             "pages": [
               "tools/compliance",
               "tools/multi-pic-commentary",
