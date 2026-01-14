@@ -16,6 +16,7 @@
         "groups": [
           {
             "group": "开始使用",
+            "icon": "rocket-launch",
             "pages": [
               "introduction",
               "guide/quick-start"
@@ -23,6 +24,7 @@
           },
           {
             "group": "场景化剪辑",
+            "icon": "seedling",
             "pages": [
               "solutions/short-drama",
               "solutions/live-highlights"
@@ -30,6 +32,7 @@
           },
           {
             "group": "AI 工具",
+            "icon": "thumbs-up",
             "pages": [
               "tools/compliance",
               "tools/multi-pic-commentary",
@@ -43,6 +46,7 @@
           },
           {
             "group": "常见问题",
+            "icon": "circle-question",
             "pages": [
               "faq/general"
             ]
