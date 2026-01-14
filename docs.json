@@ -16,14 +16,20 @@
         "groups": [
           {
             "group": "开始使用",
-            "pages": ["introduction", "guide/quick-start"]
+            "pages": [
+              "introduction",
+              "guide/quick-start"
+            ]
           },
           {
             "group": "场景化剪辑",
-            "pages": ["solutions/short-drama", "solutions/live-highlights"]
+            "pages": [
+              "solutions/short-drama",
+              "solutions/live-highlights"
+            ]
           },
           {
-            "group": "核心 AI 工具",
+            "group": "AI 工具",
             "pages": [
               "tools/compliance",
               "tools/multi-pic-commentary",
@@ -37,7 +43,9 @@
           },
           {
             "group": "常见问题",
-            "pages": ["faq/general"]
+            "pages": [
+              "faq/general"
+            ]
           }
         ]
       },
@@ -57,7 +65,9 @@
         "groups": [
           {
             "group": "API 手册",
-            "pages": ["api/introduction"]
+            "pages": [
+              "api/introduction"
+            ]
           }
         ]
       },
@@ -66,7 +76,9 @@
         "groups": [
           {
             "group": "产品公告",
-            "pages": ["changelog/index"]
+            "pages": [
+              "changelog/index"
+            ]
           }
         ]
       },
@@ -75,7 +87,10 @@
         "groups": [
           {
             "group": "法务条款",
-            "pages": ["legal/terms", "legal/privacy"]
+            "pages": [
+              "legal/terms",
+              "legal/privacy"
+            ]
           }
         ]
       }
