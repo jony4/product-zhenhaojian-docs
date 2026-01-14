@@ -1,0 +1,112 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "帧好剪",
+  "colors": {
+    "primary": "#0D9488",
+    "light": "#14B8A6",
+    "dark": "#0F766E"
+  },
+  "favicon": "/favicon.png",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "用户指南",
+        "groups": [
+          {
+            "group": "开始使用",
+            "pages": ["introduction", "guide/quick-start"]
+          },
+          {
+            "group": "场景化剪辑",
+            "pages": ["solutions/short-drama", "solutions/live-highlights"]
+          },
+          {
+            "group": "核心 AI 工具",
+            "pages": [
+              "tools/compliance",
+              "tools/multi-pic-commentary",
+              "tools/video-summary",
+              "tools/subtitle-extraction",
+              "tools/subtitle-translation",
+              "tools/video-translation",
+              "tools/audio-separation",
+              "tools/smart-cutout"
+            ]
+          },
+          {
+            "group": "常见问题",
+            "pages": ["faq/general"]
+          }
+        ]
+      },
+      {
+        "tab": "场景示例",
+        "groups": [
+          {
+            "group": "企业宣传片",
+            "pages": [
+              "api/introduction"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API 手册",
+        "groups": [
+          {
+            "group": "API 手册",
+            "pages": ["api/introduction"]
+          }
+        ]
+      },
+      {
+        "tab": "更新公告",
+        "groups": [
+          {
+            "group": "产品公告",
+            "pages": ["changelog/index"]
+          }
+        ]
+      },
+      {
+        "tab": "条款与协议",
+        "groups": [
+          {
+            "group": "法务条款",
+            "pages": ["legal/terms", "legal/privacy"]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": "/logo.png",
+  "navbar": {
+    "links": [
+      {
+        "label": "官网",
+        "href": "https://www.cutcut.video"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "开始使用",
+      "href": "https://video.cutcut.video"
+    }
+  },
+  "seo": {
+    "metatags": {
+      "title": "帧好剪 (cutcut.video) - 智能媒体处理平台文档",
+      "description": "帧好剪官方文档，提供视频剪辑、内容风控、字幕翻译等 AI 工具的详细指南与 API 接入参考。",
+      "og:image": "/logo.png",
+      "twitter:card": "summary_large_image"
+    },
+    "indexing": "navigable"
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/introduction"
+    }
+  ]
+}
