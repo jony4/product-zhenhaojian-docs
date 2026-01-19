@@ -116,23 +116,5 @@
       "twitter:card": "summary_large_image"
     },
     "indexing": "navigable"
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/index"
-    },
-    {
-      "source": "/tools/subtitle-extraction",
-      "destination": "/tools/subtitle"
-    },
-    {
-      "source": "/tools/subtitle-translation",
-      "destination": "/tools/subtitle"
-    },
-    {
-      "source": "/tools/multi-pic-commentary",
-      "destination": "/solutions/multi-pic-commentary"
-    }
-  ]
+  }
 }
