@@ -18,7 +18,7 @@
             "group": "开始使用",
             "icon": "rocket-launch",
             "pages": [
-              "introduction",
+              "index",
               "guide/quick-start"
             ]
           },
@@ -26,8 +26,10 @@
             "group": "场景化剪辑",
             "icon": "seedling",
             "pages": [
+              "solutions/smart-remix",
               "solutions/short-drama",
-              "solutions/live-highlights"
+              "solutions/live-highlights",
+              "solutions/multi-pic-commentary"
             ]
           },
           {
@@ -35,10 +37,8 @@
             "icon": "screwdriver-wrench",
             "pages": [
               "tools/compliance",
-              "tools/multi-pic-commentary",
               "tools/video-summary",
-              "tools/subtitle-extraction",
-              "tools/subtitle-translation",
+              "tools/subtitle",
               "tools/video-translation",
               "tools/audio-separation",
               "tools/smart-cutout"
@@ -102,12 +102,6 @@
   },
   "logo": "/logo.png",
   "navbar": {
-    "links": [
-      {
-        "label": "官网",
-        "href": "https://www.cutcut.video"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "开始使用",
@@ -126,7 +120,19 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/introduction"
+      "destination": "/index"
+    },
+    {
+      "source": "/tools/subtitle-extraction",
+      "destination": "/tools/subtitle"
+    },
+    {
+      "source": "/tools/subtitle-translation",
+      "destination": "/tools/subtitle"
+    },
+    {
+      "source": "/tools/multi-pic-commentary",
+      "destination": "/solutions/multi-pic-commentary"
     }
   ]
 }
