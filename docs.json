@@ -57,9 +57,19 @@
         "tab": "场景示例",
         "groups": [
           {
-            "group": "企业宣传片",
+            "group": "营销推广",
+            "icon": "bullhorn",
             "pages": [
-              "api/introduction"
+              "examples/corporate-video",
+              "examples/product-showcase"
+            ]
+          },
+          {
+            "group": "内容创作",
+            "icon": "video",
+            "pages": [
+              "examples/social-media",
+              "examples/education"
             ]
           }
         ]
